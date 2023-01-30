@@ -18,7 +18,7 @@
   - [Questions](#questions)
  
 ## Visuals
-[![Video] ()]
+[![Video] (https://drive.google.com/file/d/1KazTcDSsQIeCpRsJH-9ye3FudborRtr2/view)]
 
 ## Site
 
